@@ -1,0 +1,5 @@
+# ninja log v5
+31	1419	7280343659943229	CMakeFiles/lab3.dir/functions/functions.cpp.obj	c5807ce808281b15
+10	1425	7280343659962565	CMakeFiles/lab3.dir/main.cpp.obj	4c40fe0d62de0c93
+16	1694	7280343662738255	CMakeFiles/lab3.dir/packages/emptyPackage.cpp.obj	9badc02202dff7ad
+36	1250	7280344068072291	CMakeFiles/lab3.dir/packages/supportPackage.cpp.obj	6ab470d7926121aa
